@@ -1,6 +1,6 @@
 {
   "name": "progressive-image-react",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Progressive image loader component for React",
   "main": "index.js",
   "keywords": [
