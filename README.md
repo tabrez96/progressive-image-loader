@@ -36,4 +36,4 @@ This software is released under the **MIT License**.
 
 ## Acknowledgments
 
-Inspired by [progressive-image.js]([https://github.com/craigbuckler/progressive-image.js](https://github.com/craigbuckler/progressive-image.js)). Thanks and kudos to [Craig Bucker]([https://github.com/craigbuckler](https://github.com/craigbuckler)).
+Inspired by [progressive-image.js](https://github.com/craigbuckler/progressive-image.js). Thanks and kudos to [Craig Bucker](https://github.com/craigbuckler).
